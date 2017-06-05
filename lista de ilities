@@ -50,7 +50,7 @@ modifiability
 modularity
 operability - daniel kiluange, felipe baruch
 orthogonality
-portability
+portability - everton quadros, marcos figueiredo
 precision
 predictability
 process capabilities
@@ -63,14 +63,14 @@ repeatability
 reproducibility
 resilience - daniel kiluange, felipe baruch
 responsiveness
-reusability
+reusability - everton quadros, marcos figueiredo
 safety
 scalability
 seamlessness
 self-sustainability
 serviceability (a.k.a. supportability)
 securability - daniel kiluange, felipe baruch
-simplicity
+simplicity - everton quadros, marcos figueiredo
 stability
 standards compliance
 survivability
